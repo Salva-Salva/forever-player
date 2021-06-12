@@ -1,1 +1,1 @@
-# forever-player
+# mini-player
